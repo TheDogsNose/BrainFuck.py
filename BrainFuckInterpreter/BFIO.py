@@ -1,3 +1,7 @@
+#
+#   this was a very bad attempt
+#   I don't mean the the other ones are good but at least they're working
+#
 import os
 from dotenv import load_dotenv
 from re import TEMPLATE, template
